@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tradeteens/static/css/main.a4fdebc5.css",
+    "main.js": "/Tradeteens/static/js/main.60ba4a19.js",
+    "static/media/trading.avif": "/Tradeteens/static/media/trading.c64b52de2b38e82eef95.avif",
+    "index.html": "/Tradeteens/index.html",
+    "main.a4fdebc5.css.map": "/Tradeteens/static/css/main.a4fdebc5.css.map",
+    "main.60ba4a19.js.map": "/Tradeteens/static/js/main.60ba4a19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fdebc5.css",
+    "static/js/main.60ba4a19.js"
+  ]
+}
